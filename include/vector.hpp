@@ -1,7 +1,10 @@
-#pragma once
+
 #include <iostream>
 #include <algorithm>  //for std::max
 
+
+#ifndef VECTOR_HPP
+#define VECTOR_HPP
 namespace dsa{
 
 template <typename T>
@@ -72,4 +75,6 @@ public:
     void shrink_to_fit();
 
 }; //end class Vector
-}//end namespace dsa
+}
+
+#endif
