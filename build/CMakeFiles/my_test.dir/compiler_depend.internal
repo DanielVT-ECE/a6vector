@@ -3,8 +3,8 @@
 
 CMakeFiles/my_test.dir/tests/test.cpp.o
  /home/daniel/ece3514/a6vector/tests/test.cpp
- /home/daniel/ece3514/a6vector/include/vector.hpp
  /home/daniel/ece3514/a6vector/include/vector.ipp
+ /home/daniel/ece3514/a6vector/include/vector.hpp
  /home/daniel/ece3514/a6vector/tests/catch2/catch.hpp
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h
