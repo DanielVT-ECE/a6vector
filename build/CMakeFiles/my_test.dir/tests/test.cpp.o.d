@@ -308,4 +308,4 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: \
  /usr/include/c++/13/bits/regex_executor.tcc /usr/include/c++/13/iterator \
  /usr/include/c++/13/bits/stream_iterator.h /usr/include/c++/13/iostream \
  /home/daniel/ece3514/a6vector/include/vector.hpp \
- /home/daniel/ece3514/a6vector/include/vector.ipp
+ /home/daniel/ece3514/a6vector/include/./vector.ipp

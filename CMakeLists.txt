@@ -10,7 +10,6 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # Add the main executable (include vector implementation so templates are available)
 add_executable(a6vector src/main.cpp)
-
 ####################################################
 # Add the test executable (link vector implementation into the test binary)
 add_executable(my_test tests/test.cpp)

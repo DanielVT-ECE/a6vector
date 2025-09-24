@@ -2,9 +2,9 @@
 #include <iostream>
 #include <algorithm>  //for std::max
 
-
 #ifndef VECTOR_HPP
 #define VECTOR_HPP
+
 namespace dsa{
 
 template <typename T>
@@ -77,5 +77,5 @@ public:
 }; //end class Vector
 }
 
-#include "vector.ipp"
+#include "./vector.ipp"
 #endif

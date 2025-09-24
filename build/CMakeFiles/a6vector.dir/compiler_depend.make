@@ -3,6 +3,7 @@
 
 CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.cpp \
   /home/daniel/ece3514/a6vector/include/vector.hpp \
+  /home/daniel/ece3514/a6vector/include/vector.ipp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -216,8 +217,6 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
-/usr/include/x86_64-linux-gnu/sys/cdefs.h:
-
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
 /usr/include/x86_64-linux-gnu/c++/13/bits/gthr-default.h:
@@ -308,8 +307,6 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
-/usr/include/c++/13/bits/stl_algobase.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
 /usr/include/c++/13/bits/refwrap.h:
@@ -323,6 +320,10 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 /usr/include/c++/13/bits/ranges_algo.h:
 
 /usr/include/c++/13/bits/ostream_insert.h:
+
+/usr/include/wchar.h:
+
+/usr/include/c++/13/bits/memory_resource.h:
 
 /usr/include/c++/13/bits/invoke.h:
 
@@ -400,11 +401,11 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 
 /usr/include/c++/13/backward/binders.h:
 
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/home/daniel/ece3514/a6vector/include/vector.ipp:
+
 /usr/include/c++/13/bits/nested_exception.h:
-
-/usr/include/c++/13/bits/memory_resource.h:
-
-/usr/include/wchar.h:
 
 /home/daniel/ece3514/a6vector/src/main.cpp:
 
@@ -425,6 +426,20 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 /usr/include/c++/13/bits/memoryfwd.h:
 
 /usr/include/time.h:
+
+/usr/include/c++/13/bits/ranges_base.h:
+
+/usr/include/c++/13/istream:
+
+/usr/include/c++/13/string_view:
+
+/usr/include/features-time64.h:
+
+/usr/include/x86_64-linux-gnu/bits/endianness.h:
+
+/usr/include/c++/13/bits/basic_string.h:
+
+/usr/include/stdc-predef.h:
 
 /usr/include/c++/13/bits/move.h:
 
@@ -464,19 +479,7 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 
 /usr/include/c++/13/ios:
 
-/usr/include/c++/13/bits/ranges_base.h:
-
-/usr/include/c++/13/istream:
-
-/usr/include/c++/13/string_view:
-
-/usr/include/features-time64.h:
-
-/usr/include/x86_64-linux-gnu/bits/endianness.h:
-
-/usr/include/c++/13/bits/basic_string.h:
-
-/usr/include/stdc-predef.h:
+/usr/include/c++/13/bits/stl_algobase.h:
 
 /usr/include/c++/13/bits/stl_construct.h:
 
@@ -511,6 +514,12 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
 
 /usr/include/c++/13/bits/stl_tempbuf.h:
+
+/usr/include/endian.h:
+
+/usr/include/c++/13/bits/max_size_type.h:
+
+/usr/include/c++/13/bits/streambuf.tcc:
 
 /usr/include/c++/13/bits/istream.tcc:
 
@@ -609,12 +618,6 @@ CMakeFiles/a6vector.dir/src/main.cpp.o: /home/daniel/ece3514/a6vector/src/main.c
 /usr/include/c++/13/bits/cxxabi_init_exception.h:
 
 /usr/include/c++/13/typeinfo:
-
-/usr/include/c++/13/bits/max_size_type.h:
-
-/usr/include/c++/13/bits/streambuf.tcc:
-
-/usr/include/endian.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
 

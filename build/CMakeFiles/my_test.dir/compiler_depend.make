@@ -3,6 +3,7 @@
 
 CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/test.cpp \
   /home/daniel/ece3514/a6vector/include/vector.hpp \
+  /home/daniel/ece3514/a6vector/include/vector.ipp \
   /home/daniel/ece3514/a6vector/tests/catch2/catch.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
@@ -697,6 +698,10 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 
 /usr/include/c++/13/bits/chrono_io.h:
 
+/usr/include/c++/13/bits/ranges_algo.h:
+
+/usr/include/c++/13/bits/invoke.h:
+
 /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_inline.h:
 
 /usr/include/x86_64-linux-gnu/bits/signal_ext.h:
@@ -706,22 +711,6 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 /usr/include/c++/13/bits/char_traits.h:
 
 /usr/include/c++/13/bits/hashtable_policy.h:
-
-/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
-
-/usr/include/c++/13/bits/exception_defines.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
-
-/usr/include/math.h:
-
-/usr/include/c++/13/bits/stl_vector.h:
-
-/home/daniel/ece3514/a6vector/tests/catch2/catch.hpp:
-
-/usr/include/c++/13/bits/stl_tempbuf.h:
-
-/usr/include/c++/13/bits/random.h:
 
 /usr/include/c++/13/bits/regex.h:
 
@@ -771,7 +760,35 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 
 /usr/include/c++/13/bits/unique_ptr.h:
 
+/usr/include/wchar.h:
+
+/usr/include/c++/13/bits/shared_ptr_base.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/c++/13/bits/exception_defines.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/math.h:
+
+/home/daniel/ece3514/a6vector/include/vector.ipp:
+
+/usr/include/c++/13/bits/deque.tcc:
+
+/usr/include/c++/13/bits/istream.tcc:
+
+/usr/include/c++/13/bits/locale_conv.h:
+
 /usr/include/c++/13/bits/stl_stack.h:
+
+/home/daniel/ece3514/a6vector/tests/catch2/catch.hpp:
+
+/usr/include/c++/13/bits/stl_vector.h:
+
+/usr/include/c++/13/bits/stl_tempbuf.h:
+
+/usr/include/c++/13/bits/random.h:
 
 /usr/include/alloca.h:
 
@@ -851,12 +868,6 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 
 /usr/include/c++/13/bits/iterator_concepts.h:
 
-/usr/include/c++/13/bits/deque.tcc:
-
-/usr/include/c++/13/bits/istream.tcc:
-
-/usr/include/c++/13/bits/locale_conv.h:
-
 /usr/include/c++/13/bits/cxxabi_forced.h:
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
@@ -876,6 +887,10 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 /usr/include/c++/13/typeinfo:
 
 /usr/include/c++/13/bits/exception.h:
+
+/usr/include/c++/13/bits/memory_resource.h:
+
+/usr/include/c++/13/streambuf:
 
 /usr/include/c++/13/bits/basic_ios.h:
 
@@ -899,23 +914,15 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 
 /usr/include/c++/13/bits/locale_classes.tcc:
 
+/usr/include/x86_64-linux-gnu/bits/confname.h:
+
+/usr/include/c++/13/bits/locale_facets_nonio.h:
+
 /usr/include/c++/13/bits/locale_facets_nonio.tcc:
 
 /usr/include/c++/13/bits/stl_heap.h:
 
 /usr/include/c++/13/utility:
-
-/usr/include/c++/13/bits/ranges_algo.h:
-
-/usr/include/c++/13/bits/invoke.h:
-
-/usr/include/c++/13/streambuf:
-
-/usr/include/c++/13/bits/memory_resource.h:
-
-/usr/include/c++/13/bits/shared_ptr_base.h:
-
-/usr/include/wchar.h:
 
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
@@ -924,10 +931,6 @@ CMakeFiles/my_test.dir/tests/test.cpp.o: /home/daniel/ece3514/a6vector/tests/tes
 /usr/include/x86_64-linux-gnu/c++/13/bits/opt_random.h:
 
 /usr/include/c++/13/ostream:
-
-/usr/include/c++/13/bits/locale_facets_nonio.h:
-
-/usr/include/x86_64-linux-gnu/bits/confname.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
