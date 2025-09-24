@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_test.dir/src/vector.cpp.o"
-  "CMakeFiles/my_test.dir/src/vector.cpp.o.d"
   "CMakeFiles/my_test.dir/tests/test.cpp.o"
   "CMakeFiles/my_test.dir/tests/test.cpp.o.d"
   "my_test"

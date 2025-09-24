@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/a6vector.dir/src/main.cpp.o CMakeFiles/a6vector.dir/src/vector.cpp.o -o a6vector 
+/usr/bin/c++ CMakeFiles/a6vector.dir/src/main.cpp.o -o a6vector 

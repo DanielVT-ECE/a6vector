@@ -77,4 +77,5 @@ public:
 }; //end class Vector
 }
 
+#include "vector.ipp"
 #endif

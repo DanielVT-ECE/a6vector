@@ -9,11 +9,11 @@ project(a6vector)
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # Add the main executable (include vector implementation so templates are available)
-add_executable(a6vector src/main.cpp src/vector.cpp)
+add_executable(a6vector src/main.cpp)
 
 ####################################################
 # Add the test executable (link vector implementation into the test binary)
-add_executable(my_test src/vector.cpp tests/test.cpp)
+add_executable(my_test tests/test.cpp)
 # Include directories for the test target
 target_include_directories(my_test PRIVATE ${PROJECT_SOURCE_DIR}/include ${PROJECT_SOURCE_DIR}/catch2)
 # Enable testing
