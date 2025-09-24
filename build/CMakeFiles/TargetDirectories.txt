@@ -1,0 +1,5 @@
+/home/daniel/ece3514/a6vector/build/CMakeFiles/a6vector.dir
+/home/daniel/ece3514/a6vector/build/CMakeFiles/my_test.dir
+/home/daniel/ece3514/a6vector/build/CMakeFiles/test.dir
+/home/daniel/ece3514/a6vector/build/CMakeFiles/edit_cache.dir
+/home/daniel/ece3514/a6vector/build/CMakeFiles/rebuild_cache.dir
